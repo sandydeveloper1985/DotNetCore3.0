@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9zepHQLtCqdJfWQLZiXxX0rchpzwDDcj+uIISLE6WI12PWfAZEgQCR/VKzI67aqf38wrcwMle2Bq0MHpZNugQ==",
+  "success": true,
+  "projectFilePath": "E:\\Core\\DotNetCore3.0\\SaiDhamProject\\SaiDhamRepositiory\\SaiDhamRepositiory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandeep.singh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
