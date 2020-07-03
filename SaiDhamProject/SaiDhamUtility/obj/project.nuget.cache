@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9y/qQZv/wv50PGVgvb55rJ7se0w0O8XNDIrWqgMHAXfMSwNlGKNZthx0QmQR6crQHsLDoya0NcO+NQERH1HKGA==",
+  "success": true,
+  "projectFilePath": "E:\\Core\\DotNetCore3.0\\SaiDhamProject\\SaiDhamUtility\\SaiDhamUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandeep.singh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
