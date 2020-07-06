@@ -1,0 +1,9 @@
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\bin\Debug\netcoreapp3.0\SaiDhamRepositiory.deps.json
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\bin\Debug\netcoreapp3.0\SaiDhamRepositiory.dll
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\bin\Debug\netcoreapp3.0\SaiDhamRepositiory.pdb
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\obj\Debug\netcoreapp3.0\SaiDhamRepositiory.csprojAssemblyReference.cache
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\obj\Debug\netcoreapp3.0\SaiDhamRepositiory.AssemblyInfoInputs.cache
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\obj\Debug\netcoreapp3.0\SaiDhamRepositiory.AssemblyInfo.cs
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\obj\Debug\netcoreapp3.0\SaiDhamRepositiory.csproj.CoreCompileInputs.cache
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\obj\Debug\netcoreapp3.0\SaiDhamRepositiory.dll
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamRepositiory\obj\Debug\netcoreapp3.0\SaiDhamRepositiory.pdb

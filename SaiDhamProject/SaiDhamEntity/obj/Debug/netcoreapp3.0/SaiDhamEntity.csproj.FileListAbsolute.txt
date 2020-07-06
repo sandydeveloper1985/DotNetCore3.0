@@ -1,0 +1,10 @@
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\bin\Debug\netcoreapp3.0\SaiDhamEntity.deps.json
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\bin\Debug\netcoreapp3.0\SaiDhamEntity.dll
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\bin\Debug\netcoreapp3.0\SaiDhamEntity.pdb
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\bin\Debug\netcoreapp3.0\SaiDhamEntity.xml
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\obj\Debug\netcoreapp3.0\SaiDhamEntity.csprojAssemblyReference.cache
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\obj\Debug\netcoreapp3.0\SaiDhamEntity.AssemblyInfoInputs.cache
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\obj\Debug\netcoreapp3.0\SaiDhamEntity.AssemblyInfo.cs
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\obj\Debug\netcoreapp3.0\SaiDhamEntity.csproj.CoreCompileInputs.cache
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\obj\Debug\netcoreapp3.0\SaiDhamEntity.dll
+E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\obj\Debug\netcoreapp3.0\SaiDhamEntity.pdb

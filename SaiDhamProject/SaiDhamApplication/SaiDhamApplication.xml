@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SaiDhamApplication</name>
+    </assembly>
+    <members>
+        <member name="T:SaiDhamApplication.ClientController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SaiDhamApplication.ClientController.Client">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SaiDhamApplication.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SaiDhamApplication.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:SaiDhamApplication.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SaiDhamApplication.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SaiDhamApplication.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:SaiDhamApplication.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

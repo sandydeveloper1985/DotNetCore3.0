@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SaiDhamEntity</name>
+    </assembly>
+    <members>
+        <member name="T:SaiDhamEntity.Entity.ILog">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ILog.LogId">
+            <summary>
+            Get or Set LogId
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ILog.IPaddress">
+            <summary>
+            Get or Set IPaddress
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ILog.OSName">
+            <summary>
+            Get or Set OSName
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ILog.OSVersion">
+            <summary>
+            Get or Set OSVersion
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ILog.BrowserName">
+            <summary>
+            Get or Set BrowserName
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ILog.Intime">
+            <summary>
+            Get or Set Intime
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ILog.OutTime">
+            <summary>
+            Get or Set Outime
+            </summary>
+        </member>
+        <member name="T:SaiDhamEntity.Entity.IClient">
+            <summary>
+            Interface of Client Details
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IClient.ClientId">
+            <summary>
+            Get or Set ClientId
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IClient.ClientName">
+            <summary>
+            Get or Set the ClientName
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IClient.ClientDescription">
+            <summary>
+            Get or Set the Client Description
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IClient.ClientLogo">
+            <summary>
+            Get or Set the Client Logo
+            </summary>
+        </member>
+        <member name="T:SaiDhamEntity.Entity.IMenu">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IMenu.MenuId">
+            <summary>
+            Get or Set MenuId
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IMenu.MenuName">
+            <summary>
+            Get or Set MenuName
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IMenu.MenuDescription">
+            <summary>
+            Get or Set Menu Description
+            </summary>
+        </member>
+        <member name="T:SaiDhamEntity.Entity.IRole">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IRole.RoleId">
+            <summary>
+            Get or Set RoleId
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IRole.RoleName">
+            <summary>
+            Get or Set RoleName
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IRole.RoleDetails">
+            <summary>
+            Get or Set RoleDetails
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IRole.client">
+            <summary>
+            Get ClientDetails
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IRole.user">
+            <summary>
+            Get UserDetails
+            </summary>
+        </member>
+        <member name="T:SaiDhamEntity.Entity.ISubMenu">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ISubMenu.SubMenuId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ISubMenu.SubMenuName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ISubMenu.SubMenuDescription">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.ISubMenu.MenuDetails">
+            <summary>
+            Get  MenuDetails
+            </summary>
+        </member>
+        <member name="T:SaiDhamEntity.Entity.IUser">
+            <summary>
+            Interface of IUser Details
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IUser.UserId">
+            <summary>
+            Get or Set UserId
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IUser.UserName">
+            <summary>
+            Get or Set UserName
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IUser.UserDetails">
+            <summary>
+            Get or Set UserDetails
+            </summary>
+        </member>
+        <member name="P:SaiDhamEntity.Entity.IUser.client">
+            <summary>
+            Get ClientDetails
+            </summary>
+        </member>
+    </members>
+</doc>

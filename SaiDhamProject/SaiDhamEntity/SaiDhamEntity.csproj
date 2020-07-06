@@ -3,7 +3,7 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
 	  <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
-  <ItemGroup>
-    <Folder Include="ViewModel\" />
-  </ItemGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>E:\Core\DotNetCore3.0\SaiDhamProject\SaiDhamEntity\SaiDhamEntity.xml</DocumentationFile>
+  </PropertyGroup>
 </Project>
